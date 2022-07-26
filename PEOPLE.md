@@ -1,1 +1,1 @@
-Haskell Curry
+112bla bla carrr
